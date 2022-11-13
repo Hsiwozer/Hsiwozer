@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ### Welcome to my github! 🎉
-### Hope you find what you are looking for! 👀
+### Hope you find what you are looking for!
 
 <!--
 **Hsiwozer/Hsiwozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
